@@ -1,0 +1,6 @@
+[submodule "split-fe"]
+	path = split-fe
+	url = https://github.com/shaynshin/split-fe.git
+[submodule "split-program"]
+	path = split-program
+	url = https://github.com/shaynshin/split-program.git
